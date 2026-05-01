@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pet-simulator
 =======
 # Virtual Pet Care
@@ -58,4 +57,3 @@ g++ -std=c++11 -Wall -Wextra -pedantic tests/test_game.cpp src/Pet.cpp src/Event
 - File streams and parsing.
 - Exceptions.
 - `assert` tests.
->>>>>>> 9638ce0 (Organize project structure)
